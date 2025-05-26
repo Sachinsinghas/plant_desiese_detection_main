@@ -1,4 +1,4 @@
-Team Member
+TEAM MEMBER
 
   Shreyash Verma 
   Sachin Singh 
@@ -17,7 +17,8 @@ code to send/
 ├── static/images/              # Images for the UI
 └── templates/                  # Web pages (disease input, results, etc.)
 
- Features
+ Features:
+ 
 Upload leaf images to detect diseases
 
 Provides disease information and suggestions
